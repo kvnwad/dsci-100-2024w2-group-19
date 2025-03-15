@@ -1,2 +1,2 @@
-# dsci-100-project_template
-Template project repository for DSCI-100
+# dsci-100-2024w2-group-19
+Project Authors: Kevan Waduwara, ..., ..., ...
