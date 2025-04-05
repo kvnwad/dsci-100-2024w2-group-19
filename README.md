@@ -1,2 +1,6 @@
-# dsci-100-2024w2-group-19
-Project Authors: Kevan Waduwara, Khushi Mittal, Kenny Tsan, ...
+# DSCI 100 GROUP PROJECT
+GROUP 19
+
+Project Authors: Kevan Waduwara, Khushi Mittal, Kenny Tsan
+
+*INTRODUCTION*
